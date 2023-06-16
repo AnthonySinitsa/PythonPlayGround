@@ -1,12 +1,14 @@
-def mult(str):
-  newStr = ""
-  for char in str:
-    if char not in newStr:
-      newStr += char
-  return newStr
+# Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
-word = "commissioner"
-print(mult(word))
-print(mult("agressiveness"))
+#You may assume that each input would have exactly one solution, and you may not use the same element twice.
 
-mult(word)
+#You can return the answer in any order.
+
+#Example 1:
+
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        for i in range(len(nums)):
+            for j in range (i+1, len(nums)):
+                if nums[i] + nums[j] == target:
+                    return [i,j]
