@@ -1,14 +1,14 @@
-# Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+# File Name: random.py
+# Import the library random.
+import random
 
-#You may assume that each input would have exactly one solution, and you may not use the same element twice.
+# Create a list to get a random number from
+number_list = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
 
-#You can return the answer in any order.
+# Declare a variable and assign it the return of a random value from number_list
+random_number = random.choice(number_list)
 
-#Example 1:
+# Print the random number
+print(random_number)
 
-class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        for i in range(len(nums)):
-            for j in range (i+1, len(nums)):
-                if nums[i] + nums[j] == target:
-                    return [i,j]
+# Is there anything wrong with this code?
