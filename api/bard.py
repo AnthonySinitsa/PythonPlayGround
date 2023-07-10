@@ -1,10 +1,16 @@
 import os
 from Bard import Chatbot
 
-token = open('token.txt', 'r').read().strip('\n').strip()
+def bard():
+  token = open('token.txt', 'r').read().strip('\n').strip()
 
-bot = Chatbot(token)
+  bot = Chatbot(token)
 
-output = bot.ask('write a python function that takes 2 nums as input and determines whether they are even or odd')['content']
+  question = open('test.txt', 'r').read().strip('\n').strip()
 
-print(output)
+  output = bot.ask(question)['content']
+
+  print(output)
+  
+if __name__ == '__main__':
+  bard()
