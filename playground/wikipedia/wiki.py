@@ -15,10 +15,6 @@ def lang(str):
   print(summary('computer', 10))
   print()
 
-def page(str):
-  os.system('clear')
-  print(wikipedia.page(str))
-
 def content(str):
   os.system('clear')
   print(wikipedia.page(str).content)
@@ -50,7 +46,6 @@ if __name__ == '__main__':
   # lang('uk')
   # lang('vi')
   # lang('de')
-  # page('cheesecake')
   # content('cheesecake')
   # images('cheesecake')
   # categories('cheesecake')
