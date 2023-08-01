@@ -43,8 +43,6 @@ if __name__ == '__main__':
   search('Barack')
   # summary('Barack', 10)
   # lang('fr')
-  # lang('uk')
-  # lang('vi')
   # lang('de')
   # content('cheesecake')
   # images('cheesecake')
