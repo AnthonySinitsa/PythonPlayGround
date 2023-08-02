@@ -1,1 +1,1 @@
-who let the dogs out?
+write me a function that adds 2 numbers together in python
