@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en-US">
+ <head>
+  <title>
+   Just a moment...
+  </title>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible"/>
+  <meta content="noindex,nofollow" name="robots"/>
+  <meta content="width=device-width,initial-scale=1" name="viewport"/>
+  <link href="/cdn-cgi/styles/challenges.css" rel="stylesheet"/>
+ </head>
+ <body class="no-js">
+  <div class="main-wrapper" role="main">
+   <div class="main-content">
+    <noscript>
+     <div id="challenge-error-title">
+      <div class="h2">
+       <span class="icon-wrapper">
+        <div class="heading-icon warning-icon">
+        </div>
+       </span>
+       <span id="challenge-error-text">
+        Enable JavaScript and cookies to continue
+       </span>
+      </div>
+     </div>
+    </noscript>
+   </div>
+  </div>
+  <script>
+   (function(){window._cf_chl_opt={cvId: '2',cZone: 'www.indeed.com',cType: 'managed',cNounce: '86391',cRay: '7f7479e48e1aeb3f',cHash: '7255157a7454913',cUPMDTk: "\/jobs?q=python+developer&l=Seattle%2C+WA&from=searchOnHP&__cf_chl_tk=ujx3Kxw8Iysu9xr8X.yljb3EIhp5IX5YmseVGgdWq5M-1692134370-0-gaNycGzNC2U",cFPWv: 'b',cTTimeMs: '1000',cMTimeMs: '0',cTplV: 5,cTplB: 'cf',cK: "",fa: "/jobs?q=python+developer&amp;l=Seattle%2C+WA&amp;from=searchOnHP&amp;__cf_chl_f_tk=ujx3Kxw8Iysu9xr8X.yljb3EIhp5IX5YmseVGgdWq5M-1692134370-0-gaNycGzNC2U",md: "iIqzbn6hNQ5TXXAKwbqDqNDN.FUEZ63tJmoiTFcRaBA-1692134370-0-AZ5KHnTQSPTf1yqIO93oatEtYoZA93hKg-Yu3-rQVYYkgY93bbS9fq4Ji-FuIn38ZmQg-Ziu_m7i37XE4zVN2RmJaY6wzUUj7icCFLb95b5_xFX337HbxYE027HcCDse_sobQJfPSnMa12hjBMqEHn6IHgzNIe8f7UmQJXe8QiAJ0zuvd1qvg2SgyXMDi2cQ8ZdoiIsVgPPUEsdphHyyT8U2IsR-uGEv09gj66sbjDXalysgJX2awexOsmQjQVMEd9HN1UdvqqaX4sob28A15-wnfrquxfBbzQ1E7oiLGb7FKc9tySWJiOT6-USqBpOYCnusG4Fhs6jc9unDhyB9CnS5RKyFX0v1bSWSXcAiD4z_9Jp9C5uI5TOnO2VyEbiuGQDD4idzVmZ1f1b_r_wMgb937-vIXlgEIdKvRpIE8gUzhBgbUlFmiD2IXFuI3W2aHwIjvffvNUxVr68PtVX6QwhKXpyG3M66OIwRhIxg2wu8PgHLIez_ytfLKW0nJyyg_kXKOdwtZewNzXBCKw-vILEArptZSGH-5ULOKjZKfI8bb6uGcXYo-RWLp4s-5B7r-aDaOUrvyocBzj3gTKHV_6anK5eWm9DrXhbbM4NCpp_D3hS-Z6N102CuAjfQ-x4ks778EcCrc5qPaZ_X29VgFs1KiUxARJwHjzS2IEyG1l1961H-5W40_nVMd19XkmppJKNb4MvNsKrBpG6dHCVJfbQ5eMO_BFV33oqf2pSb2uSjP5FmGHHh53xATYU58zvOW02kPhHlRQJTMwC_wMYmEA2w9ha_lMySuP27MlOaYizKS8cB6pCMKmwuJPxa8IrP-6nv_-zG-mtf1oAk6joF1WmgcUTU6-up1DPorXJSlF-zIJ-QuvWBZ4p6jKaqnx_us5IFpmm13sDsxCL9q5k1IZixfJHRPrG_vJVolEbL8yGFHD7KMRJfvrqZEqiHbmSozjXmSYXkU5LMLW7oasNlYS6vTWiqqbGOIEbfGbNxGfNaMRWCqGVU0LHmbCjTMidyNp2-aqE9bMzTADLbW-tF5DVKwaEs6ZG1bHZMm2McOP4dnZnoeLnCN8FHmLGuOZKplTzCyeHqKCwdg154gqmznepD_GliYfrVYhYfX54nrJMUMO3spe-xIe32MgsBqUtr_RSuH-FbMdqrkETykrqCIE2Bx1M3GqP6bYPv1a5gytz60Zc4yEjAxph4_6EXxtI_Tf0zlpNk5FGGJJpccwa7avm22B5ecTlE_pEdPvojh4Hbl4BgH1uY1Jfnzt8E7M8c53BumwN9VO-viiQQhZa_OQUnbC4mWLbQunil0pEEoafyJra3gvIMEnI7hu4BBe5O11qrkEXvGRepQ1o2RJW18UK_aWWIGNc1sGsuzHq2ny_kTF5Aa6W_n63W-NM1TH6klsehfdmVW6HWLPiyM5scaKKdh4H_d8W-T3qBYB3o14yXe_HSErGCh31U51lnMpHklp4MfdjWWu6fJNxi7DLTBP-9U2E6VIJpuTXxCEbLqWaW-pQioHaN18eSYKoV0HoT2xiX_e_6-c7mP_EpeKZZs9wCGWE7gJS3NEZ9zkwbnRVIWURZhfVwHhUpMhoct2zvRe459zBzx-EPzIz3YzwQozKQPVVHaYcAXNIRLVSoJ9bISNTF87P5ZQ6lwAp4Cf__L7L7d95MnAFCRr14sWqH3ArXW56inoCKTdnSLQoYgsi9NV9OzxeYO6FPUXBrI01pBJ2PPIuEItZROv4fStcHaRP_FWW4sdXtsaiJSHSMN9OzgyxzftTroj42jLiZye1uUKhdy0Oz79tE2M5xUsRFHKwARGA3qaJlENB0sP3i0t4-81W9iCrZB6eXoNWz2DRtVoWOQH9-hRYjoHaA1wyJCl-Nnq6ikJ-zgDQD54R3EdQHVJ_8oLCztZ7POfp1JNk-Dme3lc-5qDcTCciLyuVHM7VoLw7O6FJJkHi3wfmYxKZuMLWDxnITy2tKDko-mQdey8QEdEY_DbC8MOM8fXiNqJPn1zUgpKuelSFAwfLp-esi7uUy3HuB-vcpiMCdtSSE1LBsVRCekKqyxZ9FuF07k0ZrMGB6WAu0K80eKwfwtrOagailvniqSIR-qy-Ap-nnyoAf8Nt1TJ8RnoYZOTmGTqnO801mck0K9uoB9IF9LJYdXvAGv2I6qjQYiS-nImqOiIbHaXKTvDaGn1By0JZq01mfUC0Wk7g4rQbAt-gek89qxDgfTKxNAh0cV7ULpLTQUIx_CQ0so-2DHgNrzH74ihDDrb58PqCtDIS5QmMoAvhHi7tw5Gdl2kmgwoyyZDRx84EOWBbb6wsfPGHkbQoeyyhIfV7u9wgPjwnSkM_Jpvsi3fg2Q3P8A9cNZmcIrxb68Y4bQ9johTiYesAEvbCfk93jcUgI5OIcqK4hQrZm6Xab77xwNQwe_myHekxWSuYKzXRzsUvNboReoL8TIokR9UPmoUt5aeBHbZBHjBdU7qAZ_AcN2ovPCrbIawe3HFDXNTbwVo27PX-hvCHLtB9OwbEvPKXzYGvuIAa18ZoC1vSyaaHIiog3K5cHQxDVUGvsCFfbKaF7A_FU8dMP-iVJqkqQxyBMSpYxps1KWR4Trt5a8sCH49VvDJLSxbcGbMJ6dmPwYtCq6SpNto5GuWfD_qI8MTv6Xk3NqYZWzAHbhQ-6i2K0I97CUHjzL_tsBm8ljr67EL03XYmA7a3mv30zFxSDyfu0zAtgZEdGIC2LVs5jarXrdveFSFDPICV69MWi0t4WP2VlR--fKU02Fa6laBFxxtNohHpPIijrKF0WQYTuBV7rmhSnPER5Eu7ADAdzPxKvU1JTZ9e_O5KIYI8d5oEw-7lwYGc_qTQpHH39k73G",cRq: {ru: 'aHR0cHM6Ly93d3cuaW5kZWVkLmNvbS9qb2JzP3E9cHl0aG9uK2RldmVsb3BlciZsPVNlYXR0bGUlMkMrV0EmZnJvbT1zZWFyY2hPbkhQ',ra: 'TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNC4wLjU3MzUuMTk5IFNhZmFyaS81MzcuMzY=',rm: 'R0VU',d: 'J+X1IfYCRm7tV16vQti/6QtYyJjGgebf5sQIw+9B8L5TjKDNDMQtHBICGnvYZkHWBAuVX/XkybTfeJFZ3O10lHIP2ZcpX2nH3gdUGQBxnkC6YRHvUhK32JZCTY+xAA76uiRyxjsDHPGFPksgeD0sUmaUSk2TTPofu7rrFSiPLAmsrpjiMzcurjR+jx3kIg159qKRbf7uY2TYi4/oov2A7Vx0PQuy2+hDrtj8nxlrfY1wh6fnb3mF9bNww1GmFQ60rXad0rUpt90zjcvgOfpmLCjkGfImVsMjSS7ENygDsZFA4JStgUysMN97shmuL+LFvsCHAYEnjTAE4/zIMTR+RFkQYbWo0v9UouZn55cu/wJ3TEHipQ2Kbwhz0H3dmV08zbD6uOkLZ2I7tOaFrVND4OybUuqQgax/h48Yj6d46uCNwexYxygVnt3QI/IrBjCntWxfnod/98kTf+3kRHGIXQq1dxNnwBepYrrfPrDOOvR0V9NrHBzXeltWCEraGL/RB++wA39375RnccN+sasQ3sikiRrOniysN9kKnIGocfI=',t: 'MTY5MjEzNDM3MC4wMDkwMDA=',cT: Math.floor(Date.now() / 1000),m: '3AWqxfs9A9AeqdygQnDPeg4TFhYQE3BoIKethqKC0SM=',i1: '4d6jBAecjIWvf3T1mrWPWw==',i2: 'Z27vm3HouBtoP5RHkJO8Gg==',zh: '2kfjrLYfAVNem19Lin3oP+VKo7ladb55se1eVtiLLnQ=',uh: 'UvWQIlGXxnuGNoWIEy7jbVdY9i1vZoMXoxpOiLmhkks=',hh: 'kscNdiThTx/CcYpUiV7EP4v/VgPxIHsoBIQQ6Rdzvmg=',}};var cpo = document.createElement('script');cpo.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=7f7479e48e1aeb3f';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null, "\/jobs?q=python+developer&l=Seattle%2C+WA&from=searchOnHP&__cf_chl_rt_tk=ujx3Kxw8Iysu9xr8X.yljb3EIhp5IX5YmseVGgdWq5M-1692134370-0-gaNycGzNC2U" + window._cf_chl_opt.cOgUHash);cpo.onload = function() {history.replaceState(null, null, ogU);};}document.getElementsByTagName('head')[0].appendChild(cpo);}());
+  </script>
+ </body>
+</html>
