@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 
-url = "https://www.indeed.com/jobs?q=python+developer&l=Seattle%2C+WA&from=searchOnHP"
+url = "https://www.monster.com/jobs/search?q=python%20developer&where=Spokane%2C%20WA&so=m.h.lh"
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.199 Safari/537.36"
 }
