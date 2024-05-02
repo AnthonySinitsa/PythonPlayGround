@@ -1,35 +1,40 @@
-# reverse a linked list
+class ListNode:
+    def __init__(self, value):
+        self.value = value
+        self.next = None
 
-class Node:
-  def __init__(self, val):
-    self.val = val
-    self.next = None
-    
-class LinkedList:
-  def __init__(self):
-    self.head = None
-
-  def reverse(self):
+def reverse_linked_list(head):
     prev = None
-    current = self.head
-    while current != None:
-      next = current.next
-      current.next = prev
-      prev = current
-      current = next
-    self.head = prev
+    current = head
     
-# how to test this
+    while current is not None:
+        next_node = current.next
+        current.next = prev
+        prev = current
+        current = next_node
+    
+    return prev
 
-if __name__ == "__main__":
-  llist = LinkedList()
-  llist.head = Node(1)
-  second = Node(2)
-  third = Node(3)
-  llist.head.next = second
-  second.next = third
-  llist.reverse()
-  print(llist.head.val)
-  print(llist.head.next.val)
-  print(llist.head.next.next.val)
-  print(llist.head.next.next.next)
+# Example usage
+# Create a linked list: 1 -> 2 -> 3 -> 4 -> None
+head = ListNode(1)
+head.next = ListNode(2)
+head.next.next = ListNode(3)
+head.next.next.next = ListNode(4)
+
+print("Original linked list:")
+current = head
+while current is not None:
+    print(current.value, end=" -> ")
+    current = current.next
+print("None")
+
+# Reverse the linked list
+head = reverse_linked_list(head)
+
+print("Reversed linked list:")
+current = head
+while current is not None:
+    print(current.value, end=" -> ")
+    current = current.next
+print("None")
