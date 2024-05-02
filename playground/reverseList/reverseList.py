@@ -3,10 +3,12 @@ class ListNode:
         self.value = value
         self.next = None
 
-def print_linked_list(head):
+def print_linked_list_with_pointers(head):
     current = head
     while current is not None:
-        print(current.value, end=" -> ")
+        print(f"({current.value})", end="")
+        if current.next:
+            print(" -> ", end="")
         current = current.next
     print("None")
 
@@ -20,8 +22,8 @@ def reverse_linked_list(head):
         prev = current
         current = next_node
         
-        print("Reversed list at this step:")
-        print_linked_list(prev)
+        print("Linked list after this step:")
+        print_linked_list_with_pointers(prev)
     
     return prev
 
@@ -33,11 +35,11 @@ head.next.next = ListNode(3)
 head.next.next.next = ListNode(4)
 
 print("Original linked list:")
-print_linked_list(head)
+print_linked_list_with_pointers(head)
 
 # Reverse the linked list
 print("\nReversing the linked list...")
 head = reverse_linked_list(head)
 
 print("\nFinal reversed linked list:")
-print_linked_list(head)
+print_linked_list_with_pointers(head)
